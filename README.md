@@ -1,6 +1,6 @@
 - 👋 Hi, I’m aditya
-- 👀 I’m interested in python, angular
-- 🌱 I’m currently learning angular
+- 👀 I’m interested in python, angular, and flutter
+- 🌱 I’m currently learning angular, and flutter.
 - 📫 How to reach me abhalsod@codal.com
 
 <!---
